@@ -7,7 +7,7 @@ This repository contains essential Scrum-related resources, including the **2020
 
 ## 📂 Contents
 
-### 1. 2020 Scrum Guide ([PDF](./2020-Scrum-Guide-US.pdf))
+### 1. 2020 Scrum Guide ([PDF](https://github.com/Nyabayo/Scrum-Guide-Resources/blob/9557255006da461ffc5f70659cd24e07bb490f24/2020-Scrum-Guide-US%23zoom%3D100.pdf))
 The **2020 Scrum Guide** is the official, definitive guide to Scrum, created and maintained by **Ken Schwaber and Jeff Sutherland**—the co-creators of Scrum. This document serves as the foundation for Scrum methodology and is widely recognized across industries implementing agile practices.
 
 #### 🔹 Key Features of the 2020 Scrum Guide:
