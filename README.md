@@ -35,7 +35,7 @@ The **2020 Scrum Guide** is the official, definitive guide to Scrum, created and
 
 The 2020 Scrum Guide is freely available and licensed under [Creative Commons Attribution Share-Alike](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### 2. The Simple Guide to Scrum ([PDF](./TheSimpleGuideToScrum-1Pager.pdf))
+### 2. The Simple Guide to Scrum ([PDF](https://github.com/Nyabayo/Scrum-Guide-Resources/blob/2e4ecefb6a492ff42529706c2c928933ec0174b7/TheSimpleGuideToScrum-1Pager%20(1).pdf))
 The **Simple Guide to Scrum** is a **one-page summary** of the Scrum framework, designed for quick reference and easy understanding. Created by **No Limits Media Solutions Ltd**, it provides a highly condensed version of Scrum principles, making it an ideal resource for training and workshops.
 
 #### 🔹 Key Features of the Simple Guide to Scrum:
